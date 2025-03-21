@@ -1,1 +1,1 @@
-# Gen_AI_Udemy_Krish
+I have followed the Udemy course of the Krish Naik and implemented the LSTM Neural Network to predict the next word for the sentence given by the user and I have used the streamlit framework to make the app for it.
